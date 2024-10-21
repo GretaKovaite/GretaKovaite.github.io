@@ -11,12 +11,3 @@ I am a data analytics specialist looking to apply my knowledge to solve real bus
 ## 📫 Let's connect!
 - **Email** [gretuke01@gmail.com](mailto:gretuke01@gmail.com)
 - **LinkedIn:** [Greta Kovaitė](https://www.linkedin.com/in/greta-kovait%C4%97-255534247/)
-
-```html
-<style>
-    body {
-        background-color: #001f3f; /* Dark blue color */
-        color: white; /* White color for text */
-    }
-</style>
-
