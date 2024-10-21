@@ -1,16 +1,22 @@
-# Sveiki! Aš esu Greta 👋
+# Hi! I’m Greta 👋
 
-Aš esu duomenų analitikos specialistė, siekianti pritaikyti savo žinias sprendžiant realius verslo iššūkius ir padedant įmonėms priimti duomenimis pagrįstus sprendimus. Mano stiprybės yra duomenų analizė, vizualizacija ir įžvalgų pateikimas, naudojant įvairius duomenų įrankius ir programavimo kalbas.
+I am a data analytics specialist looking to apply my knowledge to solve real business challenges and help companies make data-driven decisions. My strengths lie in data analysis, visualization, and presenting insights using various data tools and programming languages.
 
-## 🛠️ Įgūdžiai ir Įrankiai:
-- **Duomenų bazės**: MySQL, SQLite
-- **Duomenų vizualizacija**: Power BI, Tableau
-- **Programavimas**: Python (`pandas`, `numpy`, `matplotlib`)
-- **Analizės metodai**: Duomenų apdorojimas, duomenų modeliavimas, statistinė analizė
+## 🛠️ Skills and Tools:
+- **Database**: MySQL, SQLite
+- **Data Visualization**: Power BI
+- **Programming**: Python (`pandas`, `numpy`, `matplotlib`)
+- **Analytical Methods**: Data processing, data modeling, statistical analysis
 
-## 📫 Susisiekite:
-- **El. paštas:** [gretuke01@gmail.com](mailto:gretuke01@gmail.com)
+## 📫 Let's connect!
+- **Email** [gretuke01@gmail.com](mailto:gretuke01@gmail.com)
 - **LinkedIn:** [Greta Kovaitė](https://www.linkedin.com/in/greta-kovait%C4%97-255534247/)
 
---- 
+```html
+<style>
+    body {
+        background-color: #001f3f; /* Dark blue color */
+        color: white; /* White color for text */
+    }
+</style>
 
