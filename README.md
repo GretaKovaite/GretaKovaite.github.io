@@ -9,7 +9,7 @@ Aš esu duomenų analitikos specialistė, siekianti pritaikyti savo žinias spre
 - **Analizės metodai**: Duomenų apdorojimas, duomenų modeliavimas, statistinė analizė
 
 ## 📫 Susisiekite:
-- **El. paštas:** [gretakov@gmail.com](mailto:gretakov@gmail.com)
+- **El. paštas:** [gretakov@gmail.com](mailto:gretuke01@gmail.com)
 - **LinkedIn:** [Greta Kovaitė](https://www.linkedin.com/in/greta-kovait%C4%97-255534247/)
 
 --- 
